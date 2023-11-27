@@ -1,0 +1,12 @@
+.navbar {
+    background-color: #2f7786;
+    display: flex;
+}
+.navleft {
+    display: flex;
+    width: 50%;
+}
+.navright {
+    display: flex;
+    width: 50%;
+}
